@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    color: #fff;
+    background: url(mockup7.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: bottom center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.navbar {
+    padding: 8px;
+    color: white;   
+}
+
+
+.navbar .nav-item{
+    padding: 0.5em;
+}
+
+.navbar .navbar-nav {
+    text-align: center;
+    display: flex;
+    list-style: none;
+    margin-left: 95em;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-family: garamond;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.latest-articles {
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-family: garamond;
+    font-size: 25px;
+}
+
+a:hover {
+    color: #E2AF41;
+}
+
+.fa-sharp { 
+    font-size: 20;
+    margin-top: 27em;
+    margin-left: 2em;
+}
+
+

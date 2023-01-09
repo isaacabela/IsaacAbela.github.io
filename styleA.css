@@ -1,0 +1,86 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background: url(5851570.jpg);
+}
+.art-articles{
+    margin-left: 20em;
+    font-family:garamond;
+    line-height: 1.5;
+    text-align: left;
+    margin-right: 20em;
+    margin-bottom: 8em;
+    color: white;
+    font-size: 19px;
+}
+
+.image {
+    margin-left: 10em;
+    border: 10px solid transparent;
+    border-image: url(border.png) 30 round;
+}
+
+footer{
+    background-color: black;
+    margin-top: 64px;
+    padding-bottom: 16px;
+    padding-bottom: 16px;
+    color: #DEAA1A;
+}
+
+.category{
+    margin-top: 4em;
+    text-align: center;
+    color: #DEAA1A;
+    margin-right: 3em;
+}
+
+.author{
+    color: #808386;
+    font-size: 0.75em;
+    text-align: center;
+}
+
+.title{
+    text-transform: capitalize;
+    text-align: center;
+    font-family: garamond;
+    color: white;
+}
+
+.image2{
+    width: 400px;
+    height: 200px;
+    margin-left: 6em;
+}
+
+.articles-art{
+    margin-left: 11em;
+    font-family:garamond;
+    line-height: 1.5;
+    text-align: left;
+    margin-left: 6em;
+    margin-top: 2em;
+    color: white;
+    font-size: 14px;
+    margin-right: 84em;
+}
+
+.crisfam{
+    max-height: 150px;
+    max-width: 200px;
+    width: 120px;
+    height: 120px;
+    margin-left: 46em;
+    margin-bottom: 3em;
+}
+
+.art2{
+    font-family:garamond;
+    line-height: 1.5;
+    text-align: left;
+    color: white;
+    font-size: 14px;
+    margin-left: 53em;
+    margin-right: 5em;
+}
