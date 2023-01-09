@@ -84,3 +84,21 @@ footer{
     margin-left: 53em;
     margin-right: 5em;
 }
+
+.boxes{
+    margin-left: 50em;
+    color: white;
+   font-family: garamond;
+}
+
+.buttons{
+    margin-left: 50em;
+}
+.titlecon{
+    text-align: left;
+    color: #DEAA1A;
+    margin-left: 50em;
+    margin-bottom: 9em;
+    margin-top: 7em;
+    font-family: garamond;
+}
