@@ -102,3 +102,37 @@ footer{
     margin-top: 7em;
     font-family: garamond;
 }
+
+.image3{
+    max-height: 150px;
+    max-width: 200px;
+    width: 120px;
+    height: 120px;
+    margin-bottom: 5em;
+}
+
+.image4{
+    max-height: 150px;
+    max-width: 200px;
+    width: 120px;
+    height: 120px;
+    margin-left: 65em;
+    margin-bottom: 5em;
+}
+
+.image5{
+    max-height: 150px;
+    max-width: 200px;
+    width: 120px;
+    height: 120px;
+    margin-bottom: 5em;
+}
+
+.image6{
+    max-height: 150px;
+    max-width: 200px;
+    width: 120px;
+    height: 120px;
+    margin-left: 65em;
+    margin-bottom: 5em;
+}
