@@ -98,9 +98,9 @@ footer{
 .titlecon{
     text-align: left;
     color: #DEAA1A;
-    margin-left: 40em;
-    margin-bottom: 7em;
-    margin-top: 7em;
+    margin-left: 30em;
+    margin-bottom: 2em;
+    margin-top: 2em;
     font-family: garamond;
 }
 
@@ -115,11 +115,13 @@ footer{
 
 .image4{
 
-    max-width: 200px;
-    width: 120px;
-    height: 360px;
-    margin-left: 65em;
-    margin-bottom: 0em;
+    /* max-width: 200px;
+    width: 120px; */
+    /* height: 360px; */
+    width: 100%;
+    display: block;
+    /* margin-left: 5em;
+    margin-bottom: 0em; */
 }
 
 .image5{
@@ -128,7 +130,7 @@ footer{
     width: 120px;
     height: 120px;
     margin-bottom: 0em;
-    margin-left: 5em;
+    margin-left: 50em;
 }
 
 .image6{
@@ -136,9 +138,17 @@ footer{
     max-width: 200px;
     width: 120px;
     height: 120px;
-    margin-left: 65em;
-    margin-bottom: 0em;
+    margin-left: 5em;
 }
+
+.image7{
+    max-height: 150px;
+    max-width: 200px;
+    width: 120px;
+    height: 120px;
+    margin-left: 50em;
+}
+
 
 .grid-images{
     display: block;
@@ -147,4 +157,13 @@ footer{
 
 .text-white{
     color:white;
+    font-family: garamond;
+}
+
+.images-art{
+    width: 100%;
+    display: block;
+    padding-right: 2em;
+    padding-bottom: 2em;
+    margin-left: 12em;
 }
