@@ -15,7 +15,7 @@ body{
 }
 
 .image {
-    margin-left: 10em;
+    margin-left: 4em;
     border: 10px solid transparent;
     border-image: url(border.png) 30 round;
 }
@@ -46,6 +46,7 @@ footer{
     text-align: center;
     font-family: garamond;
     color: white;
+    margin-bottom: 1.5em;
 }
 
 .image2{
@@ -86,18 +87,18 @@ footer{
 }
 
 .boxes{
-    margin-left: 50em;
+    margin-left: 40em;
     color: white;
-   font-family: garamond;
+    font-family: garamond;
 }
 
 .buttons{
-    margin-left: 50em;
+    margin-left: 40em;
 }
 .titlecon{
     text-align: left;
     color: #DEAA1A;
-    margin-left: 50em;
+    margin-left: 40em;
     margin-bottom: 7em;
     margin-top: 7em;
     font-family: garamond;
@@ -137,4 +138,13 @@ footer{
     height: 120px;
     margin-left: 65em;
     margin-bottom: 0em;
+}
+
+.grid-images{
+    display: block;
+    width: 100%;
+}
+
+.text-white{
+    color:white;
 }

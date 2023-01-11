@@ -4,7 +4,7 @@ body {
     background: url(mockup7.jpg);
     background-repeat: no-repeat;
     background-size:cover;
-    background-position: bottom center;
+    background-position:bottom center ;
     min-height: 100vh;
     margin: 0;
 }
@@ -22,8 +22,9 @@ body {
 .navbar .navbar-nav {
     text-align: center;
     display: flex;
+    justify-content: end;
     list-style: none;
-    margin-left: 95em;
+    margin-right: 2em;
 }
 
 .navbar a{
@@ -48,8 +49,9 @@ a:hover {
 
 .fa-sharp { 
     font-size: 20;
-    margin-top: 27em;
+    margin-top: 7em;
     margin-left: 2em;
+    margin-top: 23em;
 }
 
 
